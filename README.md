@@ -2,10 +2,15 @@
 
 🔍 Features:
 -Browse file directories
+
 -Check files within a directory
+
 -View modification dates, sizes, and names of files
+
 -Determine whether a file is a folder or another type
+
 -Create new folders
+
 -Open file location with a double-click
 
 🌐 Default Path: "D:\"
