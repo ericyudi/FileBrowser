@@ -8,6 +8,7 @@ View modification dates, sizes, and names of files
 Determine whether a file is a folder or another type
 Create new folders
 Open file location with a double-click
+
 🌐 Default Path: "D:\"
 
 👩‍💻 Note: This app serves as a practical exploration of Java capabilities during my learning journey. Feel free to test its functionalities and provide feedback for future improvements.
